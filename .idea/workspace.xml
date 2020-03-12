@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ab04c4f-3eb6-434f-a1a7-7e3b13d7cc50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/hbaseStarter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\env\apache-maven-3.6.1\repo" />
+        <option name="mavenHome" value="D:/Program Files (x86)/apache-maven-3.2.5" />
+        <option name="userSettingsFile" value="D:\Program Files (x86)\apache-maven-3.2.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Z1vGlPHU0qU3fuVPVbOml2XY9r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/demo/hbaseStarter" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.vivo.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RoaringBitmapTest">
+    <configuration name="ClusterPoolUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vivo.jedis.ClusterPoolUtil" />
+      <module name="hbaseStarter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vivo.jedis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoaringBitmapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vivo.RoaringBitmapDemo" />
+      <module name="hbaseStarter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vivo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoaringBitmapDemo.testBitMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hbaseStarter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vivo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.vivo" />
+      <option name="MAIN_CLASS_NAME" value="com.vivo.RoaringBitmapDemo" />
+      <option name="METHOD_NAME" value="testBitMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoaringBitmapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hbaseStarter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vivo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.vivo" />
+      <option name="MAIN_CLASS_NAME" value="com.vivo.RoaringBitmapTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoaringBitmapTest.testBitMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hbaseStarter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vivo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.vivo" />
+      <option name="MAIN_CLASS_NAME" value="com.vivo.RoaringBitmapTest" />
+      <option name="METHOD_NAME" value="testBitMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RoaringBitmapTest" />
+        <item itemvalue="JUnit.RoaringBitmapTest.testBitMap" />
+        <item itemvalue="JUnit.RoaringBitmapDemo.testBitMap" />
+        <item itemvalue="Application.RoaringBitmapDemo" />
+        <item itemvalue="Application.ClusterPoolUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ab04c4f-3eb6-434f-a1a7-7e3b13d7cc50" name="Default Changelist" comment="" />
+      <created>1562232912573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562232912573</updated>
+      <workItem from="1562232917712" duration="609000" />
+      <workItem from="1562289054194" duration="1446000" />
+      <workItem from="1562379237969" duration="800000" />
+      <workItem from="1562549578111" duration="1865000" />
+      <workItem from="1562568952422" duration="1197000" />
+      <workItem from="1562637542054" duration="912000" />
+      <workItem from="1563758331999" duration="15000" />
+      <workItem from="1563931802683" duration="9000" />
+      <workItem from="1565056334582" duration="11000" />
+      <workItem from="1566877339492" duration="6000" />
+      <workItem from="1572539606782" duration="82000" />
+      <workItem from="1583894116077" duration="5598000" />
+      <workItem from="1583922733195" duration="3206000" />
+      <workItem from="1584016528377" duration="988000" />
+      <workItem from="1584019060083" duration="90000" />
+      <workItem from="1584019329025" duration="1014000" />
+      <workItem from="1584020404520" duration="458000" />
+      <workItem from="1584020962809" duration="2283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2537" y="41" key="#Project_Structure" timestamp="1584020201489">
+      <screen x="1920" y="-173" width="2048" height="1112" />
+    </state>
+    <state x="2537" y="41" key="#Project_Structure/0.0.1920.1040/1920.-173.2048.1112@1920.-173.2048.1112" timestamp="1584020201489" />
+    <state x="2399" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584021721516">
+      <screen x="1920" y="-173" width="2048" height="1112" />
+    </state>
+    <state x="2399" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-173.2048.1112@1920.-173.2048.1112" timestamp="1584021721516" />
+    <state x="2482" y="-173" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584021734654">
+      <screen x="1920" y="-173" width="2048" height="1112" />
+    </state>
+    <state x="2482" y="-173" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.-173.2048.1112@1920.-173.2048.1112" timestamp="1584021734654" />
+    <state x="2087" y="99" key="FileChooserDialogImpl" timestamp="1584020469287">
+      <screen x="1920" y="-173" width="2048" height="1112" />
+    </state>
+    <state x="2087" y="99" key="FileChooserDialogImpl/0.0.1920.1040/1920.-173.2048.1112@1920.-173.2048.1112" timestamp="1584020469287" />
+    <state width="2005" height="298" key="GridCell.Tab.0.bottom" timestamp="1584022352677">
+      <screen x="1920" y="-173" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-173.2048.1112@1920.-173.2048.1112" timestamp="1584022352677" />
+    <state width="2005" height="298" key="GridCell.Tab.0.center" timestamp="1584022352677">
+      <screen x="1920" y="-173" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="298" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-173.2048.1112@1920.-173.2048.1112" timestamp="1584022352677" />
+    <state width="2005" height="298" key="GridCell.Tab.0.left" timestamp="1584022352677">
+      <screen x="1920" y="-173" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="298" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-173.2048.1112@1920.-173.2048.1112" timestamp="1584022352677" />
+    <state width="2005" height="298" key="GridCell.Tab.0.right" timestamp="1584022352677">
+      <screen x="1920" y="-173" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="298" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-173.2048.1112@1920.-173.2048.1112" timestamp="1584022352677" />
+    <state width="2005" height="367" key="GridCell.Tab.1.bottom" timestamp="1584022060147">
+      <screen x="1920" y="-173" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="367" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-173.2048.1112@1920.-173.2048.1112" timestamp="1584022060147" />
+    <state width="2005" height="367" key="GridCell.Tab.1.center" timestamp="1584022060147">
+      <screen x="1920" y="-173" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="367" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-173.2048.1112@1920.-173.2048.1112" timestamp="1584022060147" />
+    <state width="2005" height="367" key="GridCell.Tab.1.left" timestamp="1584022060147">
+      <screen x="1920" y="-173" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="367" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-173.2048.1112@1920.-173.2048.1112" timestamp="1584022060147" />
+    <state width="2005" height="367" key="GridCell.Tab.1.right" timestamp="1584022060147">
+      <screen x="1920" y="-173" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="367" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-173.2048.1112@1920.-173.2048.1112" timestamp="1584022060147" />
+    <state x="2446" y="25" key="SettingsEditor" timestamp="1584020475730">
+      <screen x="1920" y="-173" width="2048" height="1112" />
+    </state>
+    <state x="2446" y="25" key="SettingsEditor/0.0.1920.1040/1920.-173.2048.1112@1920.-173.2048.1112" timestamp="1584020475730" />
+    <state x="2013" y="-80" width="1862" height="926" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1584020276347">
+      <screen x="1920" y="-173" width="2048" height="1112" />
+    </state>
+    <state x="2013" y="-80" width="1862" height="926" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040/1920.-173.2048.1112@1920.-173.2048.1112" timestamp="1584020276347" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/vivo/jedis/ClusterPoolUtil.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
